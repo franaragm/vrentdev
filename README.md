@@ -1,4 +1,4 @@
-# VRENT SYMFONY APLICATION LIKE AIRBNB -- Aplicacion Symfony estilo Airbnb
+# VRENT - SYMFONY APPLICATION LIKE AIRBNB -- Aplicacion Symfony estilo Airbnb
 
 ## Video Demostración
 
@@ -21,9 +21,6 @@
 
 ### Datos de acceso a un usuario
 
-email: fran@aragon.com
-
-password: fran
 
 ### Comandos útiles
 
